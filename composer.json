@@ -8,6 +8,7 @@
       "email": "chand.4rana@gmail.com"
     }
   ],
+  "license": "GPL-3.0-or-later",
   "require": {
     "monolog/monolog": "^1.23"
   }
