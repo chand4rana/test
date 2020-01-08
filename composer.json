@@ -1,0 +1,14 @@
+{
+  "name": "chand4rana/test",
+  "description": "Donut news",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Chandresh Rana",
+      "email": "chand.4rana@gmail.com"
+    }
+  ],
+  "require": {
+    "wbcomdesigns/module-core": "^1.23"
+  }
+}
