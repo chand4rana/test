@@ -9,6 +9,6 @@
     }
   ],
   "require": {
-    "wbcomdesigns/module-core": "^1.23"
+    "monolog/monolog": "^1.23"
   }
 }
